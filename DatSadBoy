@@ -1,0 +1,8 @@
+shared.Team = "Pirates"
+getgenv().Config = {
+    AutoFarm = true,
+    DoubleQuest = true,
+    KaitanSword  = true, -- KaitanSword, KaitanGun, KaitanFruit
+    AutoRedeemCode = true,
+    RedeemOnLevel = 1,
+    Weapon = "Melee",
